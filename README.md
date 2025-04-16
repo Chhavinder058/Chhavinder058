@@ -5,6 +5,8 @@
 - IoT applications in Agriculture
 - Full-Stack Web Development
 - Data-Driven Decision Making in Supply Chain
+- Cybersecurity
+- IT related stuff
 
 🌱 I’m currently learning:
 - Advanced Python for AI/ML
@@ -19,7 +21,7 @@
 
 📫 How to reach me:
 - LinkedIn: [Chhavinder Kumar Singh](https://www.linkedin.com/in/chhavinder-kumar-singh-72ba52232/)
-- Email: chhavindersinghofficial@gmail.com
+- Email: chhavinder111@gmail.com
 
 🧠 Fun fact:
 - I enjoy simplifying complex concepts for real-world applications and love working on projects that bridge tech with impact!
